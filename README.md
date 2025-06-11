@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Shreyash Pokharel <br>You can call me Shreyash😀 <br>I'm a computer science student and my major is computer applications <br>Creative UI/UX and graphic designer passionate about crafting intuitive designs for websites and apps that enhance user experiences.<br>fun fact: I'm good at editing toooo😁
+Hello(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shreyash Pokharel <br>You can call me Shreyash :)<br>I'm a computer science student my major is computer applications <br>Creative UI/UX and graphic designer passionate about crafting intuitive designs for websites and apps that enhance user experiences.<br>fun fact: I'm good at editing toooo 
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@ Hello(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 ![](https://github-readme-stats.vercel.app/api?username=ShreyashGG&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShreyashGG&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashGG&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShreyashGG&limit=5&theme=dark&combine_all_yearly_contributions=true)
