@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Shreyash Pokharel <br>You can call me Shreyash :)<br>I'm a computer science student my major is computer applications <br>Creative UI/UX and graphic designer passionate about crafting intuitive designs for websites and apps that enhance user experiences.<br>fun fact: I'm good at editing toooo 
+Hello(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Shreyash Pokharel <br>You can call me Shreyash😀 <br>I'm a computer science student and my major is computer applications <br>Creative UI/UX and graphic designer passionate about crafting intuitive designs for websites and apps that enhance user experiences.<br>fun fact: I'm good at editing toooo😁
 
 
 ## 🌐 Socials:
